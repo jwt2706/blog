@@ -1,0 +1,12 @@
+title: "jthome's blog"
+description: "My blog page! I just talk about random stuff I find interesting."
+baseurl: ""  # empty bc its a custom domain
+url: "https://blog.jthome.net"
+
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
