@@ -1,3 +1,3 @@
 # blog
 
-i might write stuff
+im gonna write stuff
