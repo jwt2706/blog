@@ -67,11 +67,10 @@ const {
 
     <ViewTransitions />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-L6V8103G0Y" is:inline></script>
-    <script>
+    <script is:inline>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag(){window.dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-L6V8103G0Y');
     </script>
   </head>
